@@ -1,5 +1,7 @@
 Monday
 Tuesday
 Wednesday
-Thursday
-Friday
+It's Thursday
+Friday
+Saturday
+Sunday
