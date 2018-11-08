@@ -2,6 +2,4 @@ Monday
 Tuesday
 Wednesday
 It's Thursday
-Friday
-Saturday
-Sunday
+Friday
